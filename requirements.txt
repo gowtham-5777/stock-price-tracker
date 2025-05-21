@@ -5,8 +5,8 @@ streamlit
 pandas
 yfinance
 matplotlib
-smtplib
 email-validator
 bcrypt
 fastapi
 uvicorn
+python-dotenv
