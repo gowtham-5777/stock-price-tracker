@@ -1,0 +1,12 @@
+flask
+scikit-learn
+joblib
+streamlit
+pandas
+yfinance
+matplotlib
+smtplib
+email-validator
+bcrypt
+fastapi
+uvicorn

@@ -1,0 +1,12 @@
+2025-05-21 03:13:02,093 - INFO - \u23f3 Starting live stock tracker for all companies...
+2025-05-21 03:13:02,115 - INFO - \U0001f504 Running live prediction for all stocks...
+2025-05-21 03:13:23,104 - INFO - [RELIANCE] \u2696\ufe0f HOLD | Current: \u20b91424.60 | Predicted: \u20b91424.25
+2025-05-21 03:13:23,715 - INFO - [TCS] \u2696\ufe0f HOLD | Current: \u20b93498.30 | Predicted: \u20b93492.93
+2025-05-21 03:13:24,192 - INFO - [INFY] \u2696\ufe0f HOLD | Current: \u20b91563.50 | Predicted: \u20b91564.00
+2025-05-21 03:13:24,494 - INFO - [HDFCBANK] \u2696\ufe0f HOLD | Current: \u20b91917.70 | Predicted: \u20b91915.33
+2025-05-21 15:08:30,140 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-21 15:08:30,140 [INFO] [33mPress CTRL+C to quit[0m
+2025-05-21 15:08:30,143 [INFO]  * Restarting with stat
+2025-05-21 15:08:32,030 [WARNING]  * Debugger is active!
+2025-05-21 15:08:32,038 [INFO]  * Debugger PIN: 123-212-958

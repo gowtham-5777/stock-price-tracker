@@ -1,0 +1,9 @@
+{
+    "features": [
+        "OPEN",
+        "HIGH",
+        "LOW",
+        "VOLUME"
+    ],
+    "trained_on": "2025-05-21"
+}
